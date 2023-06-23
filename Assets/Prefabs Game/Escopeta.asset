@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 269436a0edfd92540a7a0acef1ca73f5, type: 3}
+  m_Name: Escopeta
+  m_EditorClassIdentifier: 
+  weaponName: Escopeta
+  weaponDamage: 3
+  shootDistance: 4
+  bloodObjectParticles: {fileID: 1012514124740777215, guid: 8d948dd5b2d2f2d49b7dcbb524558fc9, type: 3}
+  otherObjectParticles: {fileID: 0}
+  particles: {fileID: 5623136790348089138, guid: a0045934b507fb24eb5ca13b91cf6633, type: 3}
+  fireRate: 3
